@@ -21,3 +21,4 @@ if [[ $OSTYPE == *"darwin"* ]]; then
 fi
 
 sudo chsh -s $(which fish)
+mv ./files/config.fish ~/.config/fish/config.fish
