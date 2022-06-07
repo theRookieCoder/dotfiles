@@ -14,11 +14,13 @@ if [[ $OSTYPE == *"darwin"* ]]; then
 fi
 
 if [[ $(cat /etc/os-release) == *"ubuntu"* ]]; then
-    sudo apt install openjdk-18-jdk fish aria2 exa httpie just neovim bat gh
+    sudo apt install openjdk-17-jdk fish aria2 exa httpie just neovim bat gh
+    cargo install exa
+    cargo install just
 fi
 if [[ $OSTYPE == *"darwin"* ]]; then
     brew install openjdk fish aria2 exa httpie just neovim bat gh
 fi
 
 sudo chsh -s $(which fish)
-mv ./files/config.fish ~/.config/fish/config.fish
+cp ./files/config.fish ~/.config/fish/config.fish
