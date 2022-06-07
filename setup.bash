@@ -15,7 +15,7 @@ if [[ $OSTYPE == *"darwin"* ]]; then
 fi
 
 if [[ $(cat /etc/os-release) == *"ubuntu"* ]]; then
-    sudo apt install openjdk-17-jdk fish aria2 exa httpie just neovim bat gh
+    sudo apt install openjdk-17-jdk fish aria2 httpie neovim bat gh
     cargo install exa
     cargo install just
 fi
