@@ -20,4 +20,4 @@ if [[ $OSTYPE == *"darwin"* ]]; then
     brew install openjdk fish aria2 exa httpie just neovim bat gh
 fi
 
-chsh -s $(which fish)
+sudo chsh -s $(which fish)
