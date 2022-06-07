@@ -1,4 +1,5 @@
 curl -sSf https://sh.rustup.rs | sh -s -- -y
+source ~/.cargo/env
 
 if [[ $(cat /etc/os-release) == *"ubuntu"* ]]; then
     curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
