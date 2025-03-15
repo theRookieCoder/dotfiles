@@ -1,0 +1,834 @@
+{
+  "profiles": [
+    {
+      "name": "Default Shaders",
+      "output_dir": "/home/ilesh/.var/app/com.modrinth.ModrinthApp/data/ModrinthApp/profiles/Fabric 1.21.4/mods",
+      "filters": [
+        {
+          "ModLoaderPrefer": [
+            "Fabric"
+          ]
+        },
+        {
+          "GameVersionStrict": [
+            "1.21.4"
+          ]
+        }
+      ],
+      "mods": [
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          }
+        },
+        {
+          "name": "Amplified Nether",
+          "identifier": {
+            "ModrinthProject": "wXiGiyGX"
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "Chunks fade in",
+          "identifier": {
+            "ModrinthProject": "JaNmzvA8"
+          }
+        },
+        {
+          "name": "Chunky",
+          "identifier": {
+            "ModrinthProject": "fALzjamp"
+          }
+        },
+        {
+          "name": "Distant Horizons",
+          "identifier": {
+            "ModrinthProject": "uCdwusMi"
+          }
+        },
+        {
+          "name": "Dynamic FPS",
+          "identifier": {
+            "ModrinthProject": "LQ3K71Q1"
+          }
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
+          "name": "FastQuit",
+          "identifier": {
+            "ModrinthProject": "x1hIzbuY"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "ImmediatelyFast",
+          "identifier": {
+            "ModrinthProject": "5ZwdcRci"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "ItemSwapper",
+          "identifier": {
+            "ModrinthProject": "RPOSBQgq"
+          }
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "ModrinthProject": "nvQzSEkH"
+          }
+        },
+        {
+          "name": "Language Reload",
+          "identifier": {
+            "ModrinthProject": "uLbm7CG6"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "No Chat Reports",
+          "identifier": {
+            "ModrinthProject": "qQyHxfxd"
+          }
+        },
+        {
+          "name": "Noisium",
+          "identifier": {
+            "ModrinthProject": "KuNKN7d2"
+          }
+        },
+        {
+          "name": "Nullscape",
+          "identifier": {
+            "ModrinthProject": "LPjGiSO4"
+          }
+        },
+        {
+          "name": "Raised",
+          "identifier": {
+            "ModrinthProject": "nCQRBEiR"
+          }
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "identifier": {
+            "ModrinthProject": "Bh37bMuy"
+          }
+        },
+        {
+          "name": "Remove Reloading Screen",
+          "identifier": {
+            "ModrinthProject": "ZP7xHXtw"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "ModrinthProject": "qyVF9oeo"
+          }
+        },
+        {
+          "name": "Tectonic",
+          "identifier": {
+            "ModrinthProject": "lWDHr9jE"
+          }
+        },
+        {
+          "name": "Terralith",
+          "identifier": {
+            "ModrinthProject": "8oi3bsk5"
+          }
+        },
+        {
+          "name": "ToolTipFix",
+          "identifier": {
+            "ModrinthProject": "2RKFTmiB"
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "ModrinthProject": "1bokaNcj"
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "ModrinthProject": "NcUtCpym"
+          }
+        }
+      ]
+    },
+    {
+      "name": "1.19.4 Testing",
+      "output_dir": "/home/ilesh/.local/share/gdlauncher_carbon/data/instances/1.19.4 Testing/instance/mods",
+      "filters": [
+        {
+          "ModLoaderPrefer": [
+            "Quilt",
+            "Fabric"
+          ]
+        },
+        {
+          "GameVersionStrict": [
+            "1.19.4"
+          ]
+        }
+      ],
+      "mods": [
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          }
+        },
+        {
+          "name": "[📦] No Unused Chunks",
+          "identifier": {
+            "ModrinthProject": "U8avpWmO"
+          }
+        },
+        {
+          "name": "Alternate Current",
+          "identifier": {
+            "ModrinthProject": "r0v8vy1s"
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "Bobby",
+          "identifier": {
+            "ModrinthProject": "M08ruV16"
+          }
+        },
+        {
+          "name": "Chunks fade in",
+          "identifier": {
+            "ModrinthProject": "JaNmzvA8"
+          }
+        },
+        {
+          "name": "Clear Skies",
+          "identifier": {
+            "ModrinthProject": "xNK6XfRv"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Concurrent Chunk Management Engine (Fabric)",
+          "identifier": {
+            "ModrinthProject": "VSNURh3q"
+          }
+        },
+        {
+          "name": "DashLoader",
+          "identifier": {
+            "ModrinthProject": "ZfQ3kTvR"
+          }
+        },
+        {
+          "name": "Exordium",
+          "identifier": {
+            "ModrinthProject": "DynYZEae"
+          }
+        },
+        {
+          "name": "Fabric Seasons",
+          "identifier": {
+            "ModrinthProject": "KJe6y9Eu"
+          }
+        },
+        {
+          "name": "Fastload",
+          "identifier": {
+            "ModrinthProject": "kCpssoSb"
+          }
+        },
+        {
+          "name": "FastQuit",
+          "identifier": {
+            "ModrinthProject": "x1hIzbuY"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "First-person Model",
+          "identifier": {
+            "ModrinthProject": "H5XMjpHi"
+          }
+        },
+        {
+          "name": "ImmediatelyFast",
+          "identifier": {
+            "ModrinthProject": "5ZwdcRci"
+          }
+        },
+        {
+          "name": "Inspecio",
+          "identifier": {
+            "ModrinthProject": "a93H3mKU"
+          }
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "ModrinthProject": "nvQzSEkH"
+          }
+        },
+        {
+          "name": "Krypton",
+          "identifier": {
+            "ModrinthProject": "fQEb0iXm"
+          }
+        },
+        {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "ModrinthProject": "yBW8D80W"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Mixin Conflict Helper",
+          "identifier": {
+            "ModrinthProject": "MR1VIQJJ"
+          }
+        },
+        {
+          "name": "MixinTrace",
+          "identifier": {
+            "ModrinthProject": "sGmHWmeL"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "More Culling",
+          "identifier": {
+            "ModrinthProject": "51shyZVL"
+          }
+        },
+        {
+          "name": "No Chat Reports",
+          "identifier": {
+            "ModrinthProject": "qQyHxfxd"
+          }
+        },
+        {
+          "name": "Not Enough Animations",
+          "identifier": {
+            "ModrinthProject": "MPCX6s5C"
+          }
+        },
+        {
+          "name": "Ok Zoomer",
+          "identifier": {
+            "ModrinthProject": "aXf2OSFU"
+          }
+        },
+        {
+          "name": "Presence Footsteps",
+          "identifier": {
+            "ModrinthProject": "rcTfTZr3"
+          }
+        },
+        {
+          "name": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
+          "identifier": {
+            "ModrinthProject": "qvIfYCYJ"
+          }
+        },
+        {
+          "name": "Raised",
+          "identifier": {
+            "ModrinthProject": "nCQRBEiR"
+          }
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "identifier": {
+            "ModrinthProject": "Bh37bMuy"
+          }
+        },
+        {
+          "name": "SnowyLeavesPlus",
+          "identifier": {
+            "ModrinthProject": "of7wIinq"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "ModrinthProject": "qyVF9oeo"
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "ModrinthProject": "1bokaNcj"
+          }
+        },
+        {
+          "name": "YetAnotherConfigLib",
+          "identifier": {
+            "ModrinthProject": "1eAoo2KR"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Default Vulkan",
+      "output_dir": "/home/ilesh/.local/share/gdlauncher_carbon/data/instances/Fabric 1.21.1/instance/mods",
+      "filters": [
+        {
+          "ModLoaderPrefer": [
+            "Fabric"
+          ]
+        },
+        {
+          "GameVersionStrict": [
+            "1.21.1"
+          ]
+        }
+      ],
+      "mods": [
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          }
+        },
+        {
+          "name": "Amplified Nether",
+          "identifier": {
+            "ModrinthProject": "wXiGiyGX"
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "Chunky",
+          "identifier": {
+            "ModrinthProject": "fALzjamp"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Dynamic FPS",
+          "identifier": {
+            "ModrinthProject": "LQ3K71Q1"
+          }
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "ModrinthProject": "Ha28R6CL"
+          }
+        },
+        {
+          "name": "FastQuit",
+          "identifier": {
+            "ModrinthProject": "x1hIzbuY"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "ItemSwapper",
+          "identifier": {
+            "ModrinthProject": "RPOSBQgq"
+          }
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "ModrinthProject": "nvQzSEkH"
+          }
+        },
+        {
+          "name": "Language Reload",
+          "identifier": {
+            "ModrinthProject": "uLbm7CG6"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "No Chat Reports",
+          "identifier": {
+            "ModrinthProject": "qQyHxfxd"
+          }
+        },
+        {
+          "name": "Noisium",
+          "identifier": {
+            "ModrinthProject": "KuNKN7d2"
+          }
+        },
+        {
+          "name": "Nullscape",
+          "identifier": {
+            "ModrinthProject": "LPjGiSO4"
+          }
+        },
+        {
+          "name": "Raised",
+          "identifier": {
+            "ModrinthProject": "nCQRBEiR"
+          }
+        },
+        {
+          "name": "Remove Reloading Screen",
+          "identifier": {
+            "ModrinthProject": "ZP7xHXtw"
+          }
+        },
+        {
+          "name": "Smooth Gui",
+          "identifier": {
+            "ModrinthProject": "j6yrZogB"
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "ModrinthProject": "qyVF9oeo"
+          }
+        },
+        {
+          "name": "Tectonic",
+          "identifier": {
+            "ModrinthProject": "lWDHr9jE"
+          }
+        },
+        {
+          "name": "Terralith",
+          "identifier": {
+            "ModrinthProject": "8oi3bsk5"
+          }
+        },
+        {
+          "name": "ToolTipFix",
+          "identifier": {
+            "ModrinthProject": "2RKFTmiB"
+          }
+        },
+        {
+          "name": "VulkanMod",
+          "identifier": {
+            "ModrinthProject": "JYQhtZtO"
+          }
+        },
+        {
+          "name": "YetAnotherConfigLib",
+          "identifier": {
+            "ModrinthProject": "1eAoo2KR"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Photonics",
+      "output_dir": "/home/ilesh/.var/app/com.modrinth.ModrinthApp/data/ModrinthApp/profiles/Photonics/mods",
+      "filters": [
+        {
+          "ModLoaderPrefer": [
+            "Fabric"
+          ]
+        },
+        {
+          "GameVersionStrict": [
+            "1.21.1"
+          ]
+        }
+      ],
+      "mods": [
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "FastQuit",
+          "identifier": {
+            "ModrinthProject": "x1hIzbuY"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "ImmediatelyFast",
+          "identifier": {
+            "ModrinthProject": "5ZwdcRci"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "ModrinthProject": "nvQzSEkH"
+          }
+        },
+        {
+          "name": "Language Reload",
+          "identifier": {
+            "ModrinthProject": "uLbm7CG6"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "No Chat Reports",
+          "identifier": {
+            "ModrinthProject": "qQyHxfxd"
+          }
+        },
+        {
+          "name": "Noisium",
+          "identifier": {
+            "ModrinthProject": "KuNKN7d2"
+          }
+        },
+        {
+          "name": "Photonics: A raytracing engine",
+          "identifier": {
+            "ModrinthProject": "MNlxJdtO"
+          }
+        },
+        {
+          "name": "Raised",
+          "identifier": {
+            "ModrinthProject": "nCQRBEiR"
+          }
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "identifier": {
+            "ModrinthProject": "Bh37bMuy"
+          }
+        },
+        {
+          "name": "Remove Reloading Screen",
+          "identifier": {
+            "ModrinthProject": "ZP7xHXtw"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "ModrinthProject": "qyVF9oeo"
+          }
+        },
+        {
+          "name": "ToolTipFix",
+          "identifier": {
+            "ModrinthProject": "2RKFTmiB"
+          }
+        }
+      ]
+    }
+  ],
+  "active_modpack": 4,
+  "modpacks": [
+    {
+      "name": "All the Mods 9 - ATM9",
+      "output_dir": "/home/ilesh/Downloads/modpack",
+      "install_overrides": true,
+      "identifier": {
+        "CurseForgeModpack": 715572
+      }
+    },
+    {
+      "name": "Fabulously Optimized",
+      "output_dir": "/home/ilesh/Downloads/modpack",
+      "install_overrides": true,
+      "identifier": {
+        "CurseForgeModpack": 396246
+      }
+    },
+    {
+      "name": "Better MC [FABRIC] - BMC2",
+      "output_dir": "/home/ilesh/Downloads/modpack",
+      "install_overrides": true,
+      "identifier": {
+        "ModrinthModpack": "shFhR8Vx"
+      }
+    },
+    {
+      "name": "Monifactory",
+      "output_dir": "/home/ilesh/Downloads/test",
+      "install_overrides": true,
+      "identifier": {
+        "CurseForgeModpack": 1004602
+      }
+    },
+    {
+      "name": "TerraFirmaCraft Reloaded",
+      "output_dir": "/home/ilesh/Downloads/modpack",
+      "install_overrides": true,
+      "identifier": {
+        "CurseForgeModpack": 247181
+      }
+    }
+  ]
+}

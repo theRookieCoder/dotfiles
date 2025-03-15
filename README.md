@@ -1,3 +1,3 @@
-# theRookieCoder's Config Files
+# theRookieCoder's dotfiles
 
-Install by running `bash ./setup.bash` and providing the `sudo` password when required.
+Link the dotfiles by running ./link.sh
