@@ -1,3 +1,7 @@
 # theRookieCoder's dotfiles
 
-Link the dotfiles by running ./link.sh
+This uses GNU `stow`, link the dotfiles by running
+
+```sh
+./link.sh
+```
