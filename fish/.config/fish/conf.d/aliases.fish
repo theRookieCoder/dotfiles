@@ -7,4 +7,4 @@ alias ard arduino-cli
 alias unset "set -e"
 alias rm trash
 
-abbr -a cmt --position command "git commit -aS -m"
+abbr -a cmt --position command "git commit -S -m"

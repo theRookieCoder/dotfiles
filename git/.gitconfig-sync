@@ -7,3 +7,5 @@
 	rebase = true
 [rebase]
 	autoStash = true
+[diff]
+	external = difft
