@@ -1,6 +1,6 @@
-stow ferium
-stow fish
-stow kitty
-stow bat
-stow git
+stow --adopt ferium
+stow --adopt fish
+stow --adopt kitty
+stow --adopt bat
+stow --adopt git
 git config --global include.path ".gitconfig-sync"
