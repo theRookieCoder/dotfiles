@@ -836,31 +836,36 @@
           "name": "Mod Menu",
           "identifier": {
             "ModrinthProject": "mOgUt4GM"
-          }
+          },
+          "slug": "modmenu"
         },
         {
           "name": "Reese's Sodium Options",
           "identifier": {
             "ModrinthProject": "Bh37bMuy"
-          }
+          },
+          "slug": "reeses-sodium-options"
         },
         {
           "name": "Sodium",
           "identifier": {
             "ModrinthProject": "AANobbMI"
-          }
+          },
+          "slug": "sodium"
         },
         {
           "name": "Sodium Extra",
           "identifier": {
             "ModrinthProject": "PtjYWJkn"
-          }
+          },
+          "slug": "sodium-extra"
         },
         {
           "name": "Sound Physics Remastered",
           "identifier": {
             "ModrinthProject": "qyVF9oeo"
-          }
+          },
+          "slug": "sound-physics-remastered"
         },
         {
           "name": "Xaero's Minimap",
