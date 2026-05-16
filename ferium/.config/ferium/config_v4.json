@@ -25,6 +25,12 @@
           }
         },
         {
+          "name": "Bookshelf",
+          "identifier": {
+            "CurseForgeProject": 228525
+          }
+        },
+        {
           "name": "Chunks fade in",
           "identifier": {
             "ModrinthProject": "JaNmzvA8"
@@ -58,6 +64,12 @@
           "name": "Dynamic FPS",
           "identifier": {
             "ModrinthProject": "LQ3K71Q1"
+          }
+        },
+        {
+          "name": "Enchantment Descriptions",
+          "identifier": {
+            "CurseForgeProject": 250419
           }
         },
         {

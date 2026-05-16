@@ -1,8 +1,9 @@
 {
+  "active_profile": 4,
   "profiles": [
     {
       "name": "Default Shaders",
-      "output_dir": "/home/ilesh/.var/app/com.modrinth.ModrinthApp/data/ModrinthApp/profiles/Fabric 1.21.4/mods",
+      "output_dir": "/home/ilesh/.minecraft/mods",
       "filters": [
         {
           "ModLoaderPrefer": [
@@ -11,7 +12,7 @@
         },
         {
           "GameVersionStrict": [
-            "1.21.4"
+            "26.1.2"
           ]
         }
       ],
@@ -20,7 +21,8 @@
           "name": "3D Skin Layers",
           "identifier": {
             "ModrinthProject": "zV5r3pPn"
-          }
+          },
+          "slug": "3dskinlayers"
         },
         {
           "name": "Amplified Nether",
@@ -35,28 +37,17 @@
           }
         },
         {
-          "name": "Chunks fade in",
-          "identifier": {
-            "ModrinthProject": "JaNmzvA8"
-          }
-        },
-        {
           "name": "Chunky",
           "identifier": {
             "ModrinthProject": "fALzjamp"
           }
         },
         {
-          "name": "Distant Horizons",
+          "name": "Controlify (Controller support)",
           "identifier": {
-            "ModrinthProject": "uCdwusMi"
-          }
-        },
-        {
-          "name": "Dynamic FPS",
-          "identifier": {
-            "ModrinthProject": "LQ3K71Q1"
-          }
+            "ModrinthProject": "DOUdJVEm"
+          },
+          "slug": "controlify"
         },
         {
           "name": "Enhanced Block Entities",
@@ -86,7 +77,8 @@
           "name": "Iris Shaders",
           "identifier": {
             "ModrinthProject": "YL57xq9U"
-          }
+          },
+          "slug": "iris"
         },
         {
           "name": "ItemSwapper",
@@ -194,13 +186,15 @@
           "name": "Xaero's Minimap",
           "identifier": {
             "ModrinthProject": "1bokaNcj"
-          }
+          },
+          "slug": "xaeros-minimap"
         },
         {
           "name": "Xaero's World Map",
           "identifier": {
             "ModrinthProject": "NcUtCpym"
-          }
+          },
+          "slug": "xaeros-world-map"
         }
       ]
     },
@@ -784,6 +778,103 @@
           "identifier": {
             "ModrinthProject": "2RKFTmiB"
           }
+        }
+      ]
+    },
+    {
+      "name": "Default New",
+      "output_dir": "/home/ilesh/.minecraft/mods",
+      "filters": [
+        {
+          "ModLoaderPrefer": [
+            "Fabric"
+          ]
+        },
+        {
+          "GameVersionStrict": [
+            "26.1.2"
+          ]
+        }
+      ],
+      "mods": [
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          },
+          "slug": "appleskin"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "identifier": {
+            "ModrinthProject": "5ZwdcRci"
+          },
+          "slug": "immediatelyfast"
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          },
+          "slug": "iris"
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "ModrinthProject": "nvQzSEkH"
+          },
+          "slug": "jade"
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          },
+          "slug": "lithium"
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "identifier": {
+            "ModrinthProject": "Bh37bMuy"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "ModrinthProject": "qyVF9oeo"
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "ModrinthProject": "1bokaNcj"
+          },
+          "slug": "xaeros-minimap"
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "ModrinthProject": "NcUtCpym"
+          },
+          "slug": "xaeros-world-map"
         }
       ]
     }
